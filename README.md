@@ -12,7 +12,7 @@ Player can stop and save score - Score is added to the total score and next play
 Player can shake and hold.  This runs the randomizer but does not thorw the pigs. I added this for all the whiny people who think random is not random.  Use it to burn a random number if it makes you feel in control.
 
 Logic and statistics found using web searches. Developed each individual pig probability based on 1000 rolls.  
-I did not add pig out, this can be added, have a ball.
+I did not add Making Bacon, this can be added, have a ball.
 
 
 Enjoy
